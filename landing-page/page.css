@@ -76,6 +76,11 @@ body {
     color: #fff;
     text-decoration: none;
     border-radius: 5px;
+
+}
+
+.btn:hover {
+    background: #333;
 }
 
 /* Features */
