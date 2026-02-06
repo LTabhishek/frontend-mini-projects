@@ -134,6 +134,8 @@ table {
     border-spacing: 0;
 }
 
+/* main css */
+
 html {
     box-sizing: border-box;
     font-family: 'Open Sans', sans-serif;
@@ -234,6 +236,8 @@ body {
     background-color: #269aff;
     color: white;
 }
+
+/* Resposive */
 
 @media (min-width:900px) {
     .panel {
