@@ -3,10 +3,17 @@ body {
     font-family: "Nunito", sans-serif;
 }
 
-h2 {
+.milk h2 {
     color: #ea1c2c;
     font-weight: 100;
     font-size: 2.5rem;
+}
+
+.milk p {
+    color: #f498b8;
+    font-weight: 100;
+    font-size: 1.125rem;
+    line-height: 2;
 }
 
 #mainNavbar {
@@ -41,4 +48,8 @@ h2 {
         font-weight: 100;
         font-size: 3rem;
     }
+}
+
+.content {
+    padding-bottom: 100px;
 }
